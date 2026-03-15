@@ -1,2 +1,3 @@
-# calculolight-sistema
-Sistema SaaS de orçamento e produção de esquadrias - Cálculo Light
+# Cálculo Light Plataforma V2
+
+Estrutura correta com api, app, site, database e deploy.
