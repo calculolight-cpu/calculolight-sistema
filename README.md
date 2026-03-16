@@ -1,1 +1,3 @@
-# Cálculo Light — versão completa com login real no app
+# Cálculo Light Plataforma V2
+
+Estrutura correta com api, app, site, database e deploy.
